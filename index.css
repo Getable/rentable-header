@@ -1,9 +1,22 @@
+@import "@getable/lato";
+@import "@getable/variables";
+
 :root {
-  /* define your namespaced vars here
-  --fontSize-normal-rentableHeader: 1rem;
-  */
+  --rentableHeader-orange: #F87D1C;
+  --rentableHeader-grey: #636E74;
 }
 
 .rentableHeader {
+  border-bottom: 1px solid var(--color-grey10);
+}
 
+.rentableHeader h1 {
+  font-family: var(--fontFamily-default);
+  color: var(--rentableHeader-grey);
+  font-weight: 100;
+}
+
+.title-accent {
+  color: var(--rentableHeader-orange);
+  font-weight: var(--fontWeight-lato-bold);
 }

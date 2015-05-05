@@ -7,7 +7,7 @@
     "email": "cristi@getable.com"
   },
   "repository": "getable/rentableHeader",
-  "license": "Artistic 2.0",
+  "license": "Artistic-2.0",
   "directories": {
     "test": "test"
   },
@@ -45,7 +45,6 @@
       "update": "PATH=$PATH:/usr/local/bin:/usr/local/sbin && npm install"
     }
   },
-  "license": "Artistic-2.0",
   "main": "index.es5",
   "browser": "index.es5",
   "devDependencies": {
@@ -65,5 +64,10 @@
     "tap-closer": "^1.0.0",
     "tap-spec": "^3.0.0",
     "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "@getable/lato": "^1.0.0",
+    "@getable/variables": "^1.0.1",
+    "react": "^0.13.2"
   }
 }

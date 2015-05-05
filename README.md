@@ -1,6 +1,6 @@
 # RentableHeader
 
-Describe what this component does!
+This is a header component for the experiment pages
 
 ## Usage
 ```js
@@ -14,13 +14,10 @@ Describe what this component does!
 ```
 
 ## Props
-### `<String> option` **Required**
-Defaults to "hi". Controls X.
+N/A
 
 ## CSS Variables
-
-## CSS Classes
-CSS classes that might be useful for the outside world. Probably not too useful if this is mostly a JS component.
+N/A
 
 ## Tests
 Tests are in [tape](https://github.com/substack/tape). You can run them with:
