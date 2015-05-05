@@ -1,7 +1,7 @@
 import test from 'tape'
 import React from 'react'
 import {addons} from 'react/addons'
-import RentableHeader from './index.jsx'
+import RentableHeader from '../index.jsx'
 const {TestUtils} = addons
 const {isElement} = TestUtils
 
