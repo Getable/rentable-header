@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.6 | 2015-05-06
+* code is hard. #typo
+
 ## v1.0.5 | 2015-05-06
 * fix #typo #oops
 
@@ -10,5 +13,6 @@
 
 ### 0.0.0
 Init
+
 
 
