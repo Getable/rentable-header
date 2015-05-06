@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.7 | 2015-05-06
+* will someone actually make me check my work?
+
 ## v1.0.6 | 2015-05-06
 * code is hard. #typo
 
@@ -13,6 +16,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
