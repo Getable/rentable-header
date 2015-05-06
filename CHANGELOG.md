@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.0.8 | 2015-05-06
+* Okay, only kinda my bad this time
+
 ## v1.0.7 | 2015-05-06
 * will someone actually make me check my work?
 
@@ -16,6 +19,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
