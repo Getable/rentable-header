@@ -6,12 +6,12 @@ This is a header component for the experiment pages
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [RentableHeader](#rentableheader)
-  - [Usage](#usage)
-  - [Props](#props)
-  - [CSS Variables](#css-variables)
-  - [Tests](#tests)
-  - [Developing](#developing)
+- [Install](#install)
+- [Usage](#usage)
+- [Props](#props)
+- [CSS Variables](#css-variables)
+- [Tests](#tests)
+- [Developing](#developing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
