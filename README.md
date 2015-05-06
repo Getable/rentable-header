@@ -1,3 +1,7 @@
+# RentableHeader
+
+This is a header component for the experiment pages
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -11,19 +15,20 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# RentableHeader
-
-This is a header component for the experiment pages
+## Install
+```js
+npm i @getable/rentable-header
+```
 
 ## Usage
 ```js
   import React from 'react'
-  import RentableHeader from 'rentable-header'
+  import RentableHeader from '@getable/rentable-header'
   React.render(<RentableHeader />, document.createElement('div'))
 ```
 
 ```css
-@import "rentable-header";
+@import "@getable/rentable-header";
 ```
 
 ## Props
