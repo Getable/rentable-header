@@ -16,7 +16,7 @@
   font-weight: 100;
 }
 
-.title-accent {
+.rentableHeader-Aaccent {
   color: var(--rentableHeader-orange);
   font-weight: var(--fontWeight-lato-bold);
 }
