@@ -13,7 +13,7 @@ export default class RentableHeader extends Component {
   render () {
     return (
       <div className={namespace}>
-        <h1><span className="`${namespace}-titleAccent">Rentable</span>Equipment</h1>
+        <h1><span className={`${namespace}-titleAccent`}>Rentable</span>Equipment</h1>
       </div>
       )
   }
