@@ -1,7 +1,9 @@
 @import "../";
+@import "@getable/lato";
 
 :root {
   font-size: 14px;
+  font-family: var(--fontFamily-default);
 }
 
 body {
