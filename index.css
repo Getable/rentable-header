@@ -11,7 +11,7 @@
 
 .rentableHeader h1 {
   color: var(--rentableHeader-grey);
-  font-weight: 100;
+  font-weight: var(--fontWeight-lato-normal);
 }
 
 .rentableHeader-titleAccent {
