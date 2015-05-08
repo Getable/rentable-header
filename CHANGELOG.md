@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.0 | 2015-05-08
+* add: some default spacing
+* fix: font-weight declaration
+* fix: make the header a <header>
+* fix: getable/lato is now just a dev dep
+* fix: move font-weight declaration to example only
+
 ## v1.0.8 | 2015-05-06
 * Okay, only kinda my bad this time
 
@@ -19,6 +26,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
