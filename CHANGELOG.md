@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.3.0 | 2015-05-13
+* add: phone number is now a link
+* fix: phone number class name is now namespaced
+* internal: package.json now has style
+* internal: make react a peerDep
+
 ## v1.2.0 | 2015-05-12
 * npm updates
 * add: phone number to header
@@ -30,6 +36,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
