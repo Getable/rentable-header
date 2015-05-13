@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.0 | 2015-05-12
+* npm updates
+* add: phone number to header
+
 ## v1.1.0 | 2015-05-08
 * add: some default spacing
 * fix: font-weight declaration
@@ -26,6 +30,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
