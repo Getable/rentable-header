@@ -14,7 +14,7 @@ export default class RentableHeader extends Component {
     return (
       <header className={namespace}>
         <h1><span className={`${namespace}-titleAccent`}>Rentable</span>Equipment</h1>
-        <h4 className='phoneNumber'> (415) 299-8644</h4>
+        <a href="tel:+14152998644" className={`${namespace}-phoneNumber`}>(415) 299-8644</a>
       </header>
       )
   }
