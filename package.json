@@ -47,6 +47,7 @@
   },
   "main": "index.es5",
   "browser": "index.es5",
+  "style": "index.css",
   "devDependencies": {
     "@getable/lato": "^1.0.0",
     "babel": "^5.2.9",
