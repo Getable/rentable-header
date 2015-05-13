@@ -59,6 +59,7 @@
     "ghooks": "^0.3.2",
     "in-publish": "^1.1.1",
     "nsp": "^1.0.1",
+    "react": "^0.13.2",
     "sinon": "^1.12.2",
     "smokestack": "^3.2.0",
     "smokestack-watch": "^0.4.1",
@@ -67,7 +68,9 @@
     "tape": "^4.0.0"
   },
   "dependencies": {
-    "@getable/variables": "^1.0.1",
-    "react": "^0.13.2"
+    "@getable/variables": "^1.0.1"
+  },
+  "peerDependencies": {
+    "react": ">=0.13"
   }
 }
