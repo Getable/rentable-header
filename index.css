@@ -6,14 +6,25 @@
 }
 
 .rentableHeader {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   border-bottom: 1px solid var(--color-grey10);
-  padding-left: var(--padding-normal);
+  padding: 0 var(--padding-normal);
 }
 
 .rentableHeader h1 {
   color: var(--rentableHeader-grey);
   font-weight: var(--fontWeight-lato-normal);
   margin-top: var(--padding-normal);
+}
+
+.rentableHeader .phoneNumber {
+  color: var(--color-grey50);
+}
+
+.rentableHeader .phoneNumber:before {
+  content: "\260E";
 }
 
 .rentableHeader-titleAccent {
