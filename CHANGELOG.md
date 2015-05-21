@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.1 | 2015-05-21
+* internal: disable tests for now.
+* fix: update deps; fixes babel error
+
 ## v1.3.0 | 2015-05-13
 * add: phone number is now a link
 * fix: phone number class name is now namespaced
@@ -36,6 +40,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
