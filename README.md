@@ -9,6 +9,7 @@ This is a header component for the experiment pages
 - [Install](#install)
 - [Usage](#usage)
 - [Props](#props)
+  - [[string] Phone *required*](#string-phone-required)
 - [CSS Variables](#css-variables)
 - [Tests](#tests)
 - [Developing](#developing)
