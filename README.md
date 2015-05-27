@@ -32,7 +32,8 @@ npm i @getable/rentable-header
 ```
 
 ## Props
-N/A
+### [string] Phone *required*
+A phone number to display. This should be different for every team.
 
 ## CSS Variables
 N/A
