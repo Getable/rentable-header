@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.2 | 2015-05-27
+* table of contents update
+* add phone prop
+
 ## v1.3.1 | 2015-05-21
 * internal: disable tests for now.
 * fix: update deps; fixes babel error
@@ -40,6 +44,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
