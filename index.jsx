@@ -10,7 +10,7 @@ export default class RentableHeader extends Component {
     return shouldComponentUpdate.apply(this, args)
   }
 
-  getSanitizedPhone (){
+  getSanitizedPhone () {
     return this.props.phone.replace(/[^0-9]+/g, '')
   }
 
@@ -23,6 +23,7 @@ export default class RentableHeader extends Component {
       )
   }
 }
+
 RentableHeader.propTypes = {
   phone: PropTypes.string.isRequired
 }
