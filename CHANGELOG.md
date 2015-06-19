@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.3.3 | 2015-06-19
+* fix: add `defaultProp` for phone
+
 ## v1.3.2 | 2015-05-27
 * table of contents update
 * add phone prop
@@ -19,7 +22,7 @@
 * add: phone number to header
 
 ## v1.1.0 | 2015-05-08
-* add: some default spacing
+* add: some d and undefinedefault spacing
 * fix: font-weight declaration
 * fix: make the header a <header>
 * fix: getable/lato is now just a dev dep
@@ -44,6 +47,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
