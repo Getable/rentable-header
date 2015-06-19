@@ -27,3 +27,7 @@ export default class RentableHeader extends Component {
 RentableHeader.propTypes = {
   phone: PropTypes.string.isRequired
 }
+
+RentableHeader.defaultProps = {
+  phone: ''
+}
