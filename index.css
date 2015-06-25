@@ -14,7 +14,7 @@
   padding: 0 var(--padding-normal);
 }
 
-.rentableHeader h1 {
+.rentableHeader a {
   color: var(--rentableHeader-grey);
   font-weight: var(--fontWeight-lato-normal);
   margin-top: var(--padding-normal);

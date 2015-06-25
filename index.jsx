@@ -17,7 +17,7 @@ export default class RentableHeader extends Component {
   render () {
     return (
       <header className={namespace}>
-        <h1><span className={`${namespace}-titleAccent`}>Rentable</span>Equipment</h1>
+        <h1><a href="/"><span className={`${namespace}-titleAccent`}>Rentable</span>Equipment</a></h1>
         <a href={`tel:+1${this.getSanitizedPhone()}`} className={`${namespace}-phoneNumber`}>{this.props.phone}</a>
       </header>
       )
