@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.3.4 | 2015-06-25
+* fix: logo links to home page
+
 ## v1.3.3 | 2015-06-19
 * fix: add `defaultProp` for phone
 
@@ -47,6 +50,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
