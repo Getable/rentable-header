@@ -1,5 +1,8 @@
 # Changelog
 
+## v1.3.5 | 2015-06-25
+* fix: logo styling #oops
+
 ## v1.3.4 | 2015-06-25
 * fix: logo links to home page
 
@@ -50,6 +53,7 @@
 
 ### 0.0.0
 Init
+
 
 
 
