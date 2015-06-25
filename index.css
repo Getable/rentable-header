@@ -15,9 +15,10 @@
 }
 
 .rentableHeader a {
-  color: var(--rentableHeader-grey);
-  font-weight: var(--fontWeight-lato-normal);
   margin-top: var(--padding-normal);
+  color: var(--rentableHeader-grey);
+  text-decoration: none;
+  font-weight: var(--fontWeight-lato-normal);
 }
 
 .rentableHeader-phoneNumber {
